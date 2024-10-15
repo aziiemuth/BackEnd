@@ -1,0 +1,85 @@
+{
+    "mahasiswa": [
+      {
+        "nama": "Ghulam Hajid",
+        "social_media": {
+          "facebook": "ghulamhajid",
+          "twitter": "@ghulamhajid",
+          "instagram": "@ghulamhajid"
+        }
+      },
+      {
+        "nama": "Azzah Takiyyah",
+        "social_media": {
+          "facebook": "azzah",
+          "twitter": "@azzah",
+          "instagram": "@azzah"
+        }
+      },
+      {
+        "nama": "Abid Ammar",
+        "social_media": {
+          "facebook": "abid",
+          "twitter": "@abid",
+          "instagram": "@abid"
+        }
+      },
+      {
+        "nama": "Rina Safira",
+        "social_media": {
+          "facebook": "rinasafira",
+          "twitter": "@rinasafira",
+          "instagram": "@rinasafira"
+        }
+      },
+      {
+        "nama": "Farhan Zulqarnain",
+        "social_media": {
+          "facebook": "farhanzulq",
+          "twitter": "@farhanzulq",
+          "instagram": "@farhanzulq"
+        }
+      },
+      {
+        "nama": "Nadia Fatimah",
+        "social_media": {
+          "facebook": "nadiafatimah",
+          "twitter": "@nadiafatimah",
+          "instagram": "@nadiafatimah"
+        }
+      },
+      {
+        "nama": "Ali Akbar",
+        "social_media": {
+          "facebook": "aliakbar",
+          "twitter": "@aliakbar",
+          "instagram": "@aliakbar"
+        }
+      },
+      {
+        "nama": "Dewi Anggraini",
+        "social_media": {
+          "facebook": "dewianggraini",
+          "twitter": "@dewianggraini",
+          "instagram": "@dewianggraini"
+        }
+      },
+      {
+        "nama": "Zainal Arifin",
+        "social_media": {
+          "facebook": "zainalarifin",
+          "twitter": "@zainalarifin",
+          "instagram": "@zainalarifin"
+        }
+      },
+      {
+        "nama": "Salma Zuhra",
+        "social_media": {
+          "facebook": "salmazuhra",
+          "twitter": "@salmazuhra",
+          "instagram": "@salmazuhra"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mahasiswa_list>
+    <mahasiswa>
+        <nama>Ghulam</nama>
+        <alamat>Banyuwangi</alamat>
+        <jurusan>Teknik Informatika</jurusan>
+        <hobi name="Blogging"/>
+        <hobi name="Futsal"/>
+        <hobi name="Memancing"/>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Azzah Takiyyah</nama>
+        <alamat>Surabaya</alamat>
+        <jurusan>Ilmu Komputer</jurusan>
+        <hobi name="Membaca"/>
+        <hobi name="Menulis"/>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Abid Ammar</nama>
+        <alamat>Jakarta</alamat>
+        <jurusan>Sistem Informasi</jurusan>
+        <hobi name="Programming"/>
+        <hobi name="Sepak Bola"/>
+        <hobi name="Bermain Gitar"/>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Farhan Zulqarnain</nama>
+        <alamat>Yogyakarta</alamat>
+        <jurusan>Teknik Elektro</jurusan>
+        <hobi name="Bermain Musik"/>
+        <hobi name="Mendaki Gunung"/>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Nadia Fatimah</nama>
+        <alamat>Bandung</alamat>
+        <jurusan>Desain Grafis</jurusan>
+        <hobi name="Menggambar"/>
+        <hobi name="Fotografi"/>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Ali Akbar</nama>
+        <alamat>Makassar</alamat>
+        <jurusan>Teknik Sipil</jurusan>
+        <hobi name="Berenang"/>
+        <hobi name="Memasak"/>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Salma Zuhra</nama>
+        <alamat>Malang</alamat>
+        <jurusan>Arsitektur</jurusan>
+        <hobi name="Menonton Film"/>
+        <hobi name="Bersepeda"/>
+    </mahasiswa>
+</mahasiswa_list>
