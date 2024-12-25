@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tambah Data Barang</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+</head>
+<body>
+<div class="container">
+    <div class="col-sm-5">
+        <h2>Tambah Data Barang</h2>
+        <form action="{{ url_for('tambah') }}" method="post">
+            <div class="form-group">
+                <label>Kode Barang</label>
+                <input type="text" name="kode" class="form-control" placeholder="Masukan kode barang" required />
+            </div>
+            <div class="form-group">
+                <label>Nama Barang</label>
+                <input type="text" name="nama" class="form-control" placeholder="Masukan nama barang" required />
+            </div>
+            <div class="form-group">
+                <label>Harga Barang</label>
+                <input type="number" name="harga" class="form-control" placeholder="Masukan harga" required />
+            </div>
+            <div class="form-group">
+                <label>Jumlah</label>
+                <input type="number" name="jumlah" class="form-control" placeholder="Masukan jumlah" required />
+            </div>
+            <button type="submit" id="SubmitTambah" name="submit" class="btn btn-primary">Tambah Barang</button>
+        </form>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#SubmitTambah').click(function(event) {
+            Swal.fire({
+                title: 'Berhasil!',
+                text: 'Data berhasil ditambahkan.',
+                icon: 'success',
+                confirmButtonText: 'OK'
+            });
+        });
+    });
+</script>
+</body>
+</html>
